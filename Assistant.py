@@ -1,4 +1,3 @@
-#from dis import Instruction
 import speech_recognition as aa
 import pyttsx3 
 import pywhatkit
